@@ -1,0 +1,22 @@
+{
+  "timestamp": "2026-08-10T09:09:11.672164",
+  "symbol": "XAUUSD",
+  "timeframe": "M15",
+  "connected": true,
+  "account": {
+    "login": 374579274,
+    "server": "ValetaxIntl-Live2",
+    "name": "ABBAS KADAR SHAIKH",
+    "balance": 12301.03,
+    "equity": 12301.03,
+    "margin_free": 12301.03,
+    "leverage": 700,
+    "currency": "USD",
+    "trade_allowed": true
+  },
+  "tick": null,
+  "positions": [],
+  "agents": [],
+  "consensus": null,
+  "error": "Not enough data for XAUUSD"
+}
